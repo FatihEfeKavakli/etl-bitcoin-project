@@ -1,0 +1,4 @@
+minio-data/
+__pycache__/
+.env
+*.log
