@@ -65,7 +65,7 @@ Use the following credentials to access the services:
 
   * User: admin
  
-  * Pass: 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
+  * Pass: ghp_5
 
 * **MinIO Console**: http://localhost:9001
 
